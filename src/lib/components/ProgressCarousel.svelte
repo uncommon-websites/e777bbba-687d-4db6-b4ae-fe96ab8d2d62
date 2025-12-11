@@ -20,18 +20,18 @@
                 <div class="absolute bottom-0 left-0 p-8 md:p-12 w-full md:w-1/2 bg-gradient-to-t from-black/80 via-black/40 to-transparent md:bg-none">
                     <div class="flex items-center gap-2 mb-4">
                         <div class="w-2 h-2 bg-white"></div>
-                        <span class="text-[10px] font-mono font-bold tracking-wider text-white uppercase">Mission Success</span>
+                        <span class="text-[10px] font-mono font-bold tracking-wider text-white uppercase">Model Validation</span>
                     </div>
                     
-                    <div class="text-[10px] font-mono text-gray-400 mb-4 uppercase tracking-wider">November 2, 2025</div>
+                    <div class="text-[10px] font-mono text-gray-400 mb-4 uppercase tracking-wider">November 2, 2024</div>
                     
                     <p class="text-white text-lg leading-relaxed mb-8">
-                        Haven Demo achieved mission success after deploying from the Bandwagon-4 rideshare mission. The spacecraft captured 4K video of its solar array deployment and is now power positive.
+                        Current Lab achieved validation success with elite sailing teams during competitive racing conditions. Our distributed coastal models demonstrated 50x finer resolution, delivering unprecedented accuracy for tactical navigation decisions.
                     </p>
                     
                     <a href="#" class="flex items-center gap-2 text-sm font-medium text-white hover:opacity-70 transition-opacity group/link">
                         <span class="text-xs group-hover/link:translate-x-1 transition-transform duration-300">›</span>
-                        Watch the video
+                        Read the case study
                     </a>
                 </div>
             </div>
@@ -42,15 +42,15 @@
                 <div class="absolute bottom-12 left-12">
                     <div class="flex items-center gap-2 mb-4">
                         <div class="w-2 h-2 bg-white"></div>
-                        <span class="text-[10px] font-mono font-bold tracking-wider text-white uppercase">The Next Phase</span>
+                        <span class="text-[10px] font-mono font-bold tracking-wider text-white uppercase">Port Expansion</span>
                     </div>
-                    <div class="text-[10px] font-mono text-gray-400 mb-4 uppercase tracking-wider">October 29, 2025</div>
+                    <div class="text-[10px] font-mono text-gray-400 mb-4 uppercase tracking-wider">October 29, 2024</div>
                     <p class="text-white text-lg leading-relaxed mb-8 max-w-md truncate">
-                        The flight primary structure has arrived at Vast headquarters...
+                        Current Lab computational infrastructure expanded to cover 25 new coastal regions...
                     </p>
                      <a href="#" class="flex items-center gap-2 text-sm font-medium text-white hover:opacity-70 transition-opacity group/link">
                         <span class="text-xs group-hover/link:translate-x-1 transition-transform duration-300">›</span>
-                        Watch the video
+                        Read the announcement
                     </a>
                 </div>
             </div>
@@ -59,7 +59,7 @@
         <!-- Controls -->
         <div class="flex flex-col md:flex-row items-end md:items-center justify-between mt-8 pt-8 border-t border-gray-200 gap-6">
             <div class="text-[10px] font-mono text-gray-500 uppercase tracking-wider max-w-xs leading-relaxed">
-                See the manufacturing and testing process of Haven-1, the world's first commercial space station.
+                Follow the development and validation of Current Lab's distributed high-resolution coastal modeling platform.
             </div>
 
             <!-- Progress Bar -->

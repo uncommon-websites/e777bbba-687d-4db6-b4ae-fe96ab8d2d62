@@ -2,8 +2,8 @@
     import Navbar from "$lib/components/Navbar.svelte";
     import Hero from "$lib/components/Hero.svelte";
     import Statement from "$lib/components/Statement.svelte";
-    import HavenDemo from "$lib/components/HavenDemo.svelte";
-    import HavenOne from "$lib/components/HavenOne.svelte";
+    import TechnologyShowcase from "$lib/components/TechnologyShowcase.svelte";
+    import CurrentLabPlatform from "$lib/components/CurrentLabPlatform.svelte";
     import ProgressCarousel from "$lib/components/ProgressCarousel.svelte";
 </script>
 
@@ -11,8 +11,8 @@
     <Navbar />
     <Hero />
     <Statement />
-    <HavenDemo />
-    <HavenOne />
+    <TechnologyShowcase />
+    <CurrentLabPlatform />
     <ProgressCarousel />
 </main>
 

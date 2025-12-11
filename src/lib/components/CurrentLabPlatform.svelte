@@ -24,7 +24,7 @@
         <div class="absolute inset-0 flex items-center justify-center pointer-events-none">
             <!-- Large Watermark Text -->
             <h1 class="text-[18vw] font-bold text-[#F0EFEA] tracking-tighter select-none leading-none text-center z-0">
-                Haven-1
+                Current Lab
             </h1>
             
             <!-- Circular Gauge SVG -->
