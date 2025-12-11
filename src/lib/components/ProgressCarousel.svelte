@@ -6,7 +6,7 @@
 <section class="bg-white py-24 px-6 md:px-12 overflow-hidden">
     <div class="max-w-[1400px] mx-auto">
         <h2 class="text-4xl md:text-5xl lg:text-6xl font-semibold leading-[1.05] tracking-tight mb-16 text-black">
-            Haven-1 hardware development<br />
+            Current Lab platform development<br />
             progress
         </h2>
 

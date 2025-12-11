@@ -3,19 +3,19 @@
         <!-- Top Info -->
         <div class="flex justify-between items-start w-full relative z-20">
             <div class="flex flex-col">
-                <span class="text-[10px] font-mono font-bold tracking-widest text-gray-900 uppercase">Haven-1</span>
-                <span class="text-[10px] font-mono font-bold tracking-widest text-[#FF4D00] mt-2 uppercase">Launching 2025</span>
+                <span class="text-[10px] font-mono font-bold tracking-widest text-gray-900 uppercase">Current Lab Platform</span>
+                <span class="text-[10px] font-mono font-bold tracking-widest text-[#FF4D00] mt-2 uppercase">Operational 2024</span>
             </div>
 
             <div class="text-right hidden md:block">
                 <div class="grid grid-cols-[auto_auto] gap-x-8 gap-y-1 text-[10px] font-mono text-gray-500 uppercase tracking-widest">
-                    <span class="text-gray-400">Crew:</span> <span class="text-gray-900">4</span>
-                    <span class="text-gray-400">Height:</span> <span class="text-gray-900">10.1 m</span>
-                    <span class="text-gray-400">Habitable Volume:</span> <span class="text-gray-900">45 m³</span>
-                    <span class="text-gray-400">Pressurized Volume:</span> <span class="text-gray-900">70 m³</span>
-                    <span class="text-gray-400">Mass:</span> <span class="text-gray-900">14,000 kg</span>
-                    <span class="text-gray-400">Power:</span> <span class="text-gray-900">15,000 w</span>
-                    <span class="text-gray-400">Orbit:</span> <span class="text-gray-900">51.6°, 425 km</span>
+                    <span class="text-gray-400">Resolution:</span> <span class="text-gray-900">50x finer</span>
+                    <span class="text-gray-400">Coverage:</span> <span class="text-gray-900">100+ ports</span>
+                    <span class="text-gray-400">Model Type:</span> <span class="text-gray-900">Distributed coastal</span>
+                    <span class="text-gray-400">Precision:</span> <span class="text-gray-900">Sub-kilometer</span>
+                    <span class="text-gray-400">Update Frequency:</span> <span class="text-gray-900">Real-time</span>
+                    <span class="text-gray-400">Compute Power:</span> <span class="text-gray-900">HPC cluster</span>
+                    <span class="text-gray-400">Data Sources:</span> <span class="text-gray-900">Multi-sensor</span>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
         <!-- Bottom Info -->
         <div class="w-full relative z-20 mt-auto">
             <h3 class="text-2xl md:text-3xl font-medium max-w-xs mb-8 text-gray-900 leading-tight">
-                The world’s first commercial space station
+                Distributed high-resolution coastal modeling for maritime certainty
             </h3>
             <a href="#" class="inline-flex items-center gap-2 text-sm font-medium hover:opacity-70 transition-opacity group text-gray-900">
                 <span class="text-xs group-hover:translate-x-1 transition-transform duration-300">›</span>
